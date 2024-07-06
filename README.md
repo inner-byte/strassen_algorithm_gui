@@ -1,18 +1,18 @@
 ```markdown
-# Strassen's Algorithm GUI
+Strassen's Algorithm GUI
 
 This project provides a graphical user interface (GUI) for performing matrix multiplication using Strassen's Algorithm. It is built using PyQt6 and includes features such as input validation, error handling, process display, and analytics.
 
-## Features
+ Features
 
-- **Matrix Input:** Enter matrices A and B for multiplication.
-- **Matrix Multiplication:** Perform matrix multiplication using Strassen's Algorithm.
-- **Process Display:** View the detailed steps of the calculation.
-- **Analytics:** Compare the time complexity between conventional and Strassen's algorithms.
+- Matrix Input: Enter matrices A and B for multiplication.
+- Matrix Multiplication: Perform matrix multiplication using Strassen's Algorithm.
+- Process Display: View the detailed steps of the calculation.
+- Analytics: Compare the time complexity between conventional and Strassen's algorithms.
 
-## Getting Started
+Getting Started
 
-### Prerequisites
+Prerequisites
 
 - Python 3.x
 - PyQt6
@@ -20,7 +20,7 @@ This project provides a graphical user interface (GUI) for performing matrix mul
 - Pandas
 - Matplotlib
 
-### Installation
+ Installation
 
 1. Clone the repository:
    ```sh
@@ -33,7 +33,7 @@ This project provides a graphical user interface (GUI) for performing matrix mul
    pip install PyQt6 numpy pandas matplotlib
    ```
 
-### Running the Application
+ Running the Application
 
 1. Run the application:
    ```sh
@@ -53,7 +53,7 @@ This project provides a graphical user interface (GUI) for performing matrix mul
 5. Show Analytics:
    - Click the "Show Analytics" button to view the time complexity comparison between conventional and Strassen's algorithms.
 
-## Project Structure
+ Project Structure
 
 ```
 strassen_algorithm_gui/
