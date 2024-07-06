@@ -30,7 +30,7 @@ Prerequisites
 
 2. Install the required libraries:
    ```sh
-   pip install PyQt6 numpy pandas matplotlib
+   pip install -r requirements.txt
    ```
 
  Running the Application
@@ -84,7 +84,7 @@ strassen_algorithm_gui/
 - **src/:** Directory containing source code and data files.
   - **sample_data.txt:** Contains sample data used by the project.
   - **strassen_ui.py:** Responsible for the user interface or a specific functionality within the project.
-- **screenshot/:** Directory containing an image file, possibly a screenshot of the project's interface or a visual representation of the project's output.
+- **screenshot/:** Directory containing an image file, a screenshot of the project's interface and visual representation of the project's output.
 
 ## Example Matrices
 
